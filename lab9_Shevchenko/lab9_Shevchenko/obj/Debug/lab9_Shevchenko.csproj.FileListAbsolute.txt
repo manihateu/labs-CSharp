@@ -1,0 +1,8 @@
+C:\Users\nik85\Source\Repos\lab9_Shevchenko\lab9_Shevchenko\bin\Debug\lab9_Shevchenko.exe.config
+C:\Users\nik85\Source\Repos\lab9_Shevchenko\lab9_Shevchenko\bin\Debug\lab9_Shevchenko.exe
+C:\Users\nik85\Source\Repos\lab9_Shevchenko\lab9_Shevchenko\bin\Debug\lab9_Shevchenko.pdb
+C:\Users\nik85\Source\Repos\lab9_Shevchenko\lab9_Shevchenko\obj\Debug\lab9_Shevchenko.csproj.AssemblyReference.cache
+C:\Users\nik85\Source\Repos\lab9_Shevchenko\lab9_Shevchenko\obj\Debug\lab9_Shevchenko.csproj.SuggestedBindingRedirects.cache
+C:\Users\nik85\Source\Repos\lab9_Shevchenko\lab9_Shevchenko\obj\Debug\lab9_Shevchenko.csproj.CoreCompileInputs.cache
+C:\Users\nik85\Source\Repos\lab9_Shevchenko\lab9_Shevchenko\obj\Debug\lab9_Shevchenko.exe
+C:\Users\nik85\Source\Repos\lab9_Shevchenko\lab9_Shevchenko\obj\Debug\lab9_Shevchenko.pdb
